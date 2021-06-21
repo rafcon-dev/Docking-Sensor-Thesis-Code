@@ -1,4 +1,4 @@
-# Docking-Sensor-Thesis-Code
+# Docking Sensor Thesis Code
 The code for the Arduino based docking sensor from my master thesis.
 Its purpose was to do what a roomba does when docking in its docking station for example, using a camera from a Wiimote (Pixart), and three infrared LEDs on the docking station.
 
